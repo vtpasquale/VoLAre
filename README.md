@@ -20,12 +20,6 @@ Examples 3(a) and 3(b) are modifications of a publicly-available F-16 aeroelasti
 
 ![alt text](example3ab/f16deltaP.png "F-16 Trim Pressure Distribution")
 
-
-Getting Started
-===============
-
-
-
 References
 ==========
 
