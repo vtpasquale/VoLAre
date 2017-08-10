@@ -12,7 +12,7 @@ This publicly-released version of VoLAre is significantly modified from the rese
 
 If the original author adds aeroelastic capability to the public VoLAre version, it will probably be accomplished by merging VoLAre features into [Nastran CoFE]( https://github.com/vtpasquale/NASTRAN_CoFE) as part of a new static aeroelastic solution sequence.  That effort is not on the author’s current schedule.
 
-Examples 1(a)-1(c) provide limited verification and validation through comparison of VoLAre to Weber and Brebner [4] wind tunnel results, results from Athena Vortex Lattice (AVL) [5], and results in Bertin [6].  The following figure shows lift and drag coefficient results for Example 1(c).  
+Examples 1(a)-1(c) provide limited verification and validation through comparison of VoLAre to Weber and Brebner [4] wind tunnel results, results from Athena Vortex Lattice (AVL) [5], and results in Bertin [6].  The following figure shows lift and drag coefficient results for Example 1(b).  
 
 ![alt text](example1abc_WeberBrebnerWing/wbResult.png "Vortex Lattice Verification and Validation")
 
